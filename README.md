@@ -37,7 +37,7 @@ Open the project in any Java IDE (like IntelliJ IDEA or Eclipse) and run the mai
 
 ## Purpose of This Project
 
-This project was assigned to me by my isntructor we were told to make a mangement system of our choice implementing the real world scenarios,oops concepts and dsa principles hence it was created for learning and academic purpose.
+This project was made as a management system of our choice, using real-world scenarios with OOP and basic data structure ideas. It was developed for learning and academic purposes and gives hands-on experience with Java, GUI, and file handling.
 
 ---
 
